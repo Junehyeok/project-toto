@@ -33,6 +33,9 @@ yarn으로 한게 이상하면
 
 yarn add @babel/runtime
 
+
+yarn add redux react-redux next-redux-wrapper redux-devtools-extension
+tarn add @types/react-redux -D
 -------------------------------------------------------------------------------------------------------
 https://velog.io/@sv002/Next.js%EC%99%80-Styled-components-%EA%B7%B8%EB%A6%AC%EA%B3%A0-GlobalStyle%EC%9D%98-%ED%95%A8%EC%A0%95-feat.FlickeringFont
 
